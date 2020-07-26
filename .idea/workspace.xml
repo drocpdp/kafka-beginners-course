@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b616ccd5-53f9-4575-b911-8206e20b7c41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f2NbOWObikN6BRy8P9oegsAcet" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.davidreynon.kafka.tutorial1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConsumerDemoAssignSeek">
+    <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.davidreynon.kafka.tutorial1.ConsumerDemo" />
+      <module name="kafka-beginners-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.davidreynon.kafka.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoAssignSeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.davidreynon.kafka.tutorial1.ConsumerDemoAssignSeek" />
+      <module name="kafka-beginners-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.davidreynon.kafka.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.davidreynon.kafka.tutorial1.ConsumerDemoGroups" />
+      <module name="kafka-beginners-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.davidreynon.kafka.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoWithThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.davidreynon.kafka.tutorial1.ConsumerDemoWithThread" />
+      <module name="kafka-beginners-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.davidreynon.kafka.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.davidreynon.kafka.tutorial1.ProducerDemoKeys" />
+      <module name="kafka-beginners-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.davidreynon.kafka.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerDemoAssignSeek" />
+        <item itemvalue="Application.ConsumerDemoWithThread" />
+        <item itemvalue="Application.ProducerDemoKeys" />
+        <item itemvalue="Application.ConsumerDemoGroups" />
+        <item itemvalue="Application.ConsumerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b616ccd5-53f9-4575-b911-8206e20b7c41" name="Default Changelist" comment="" />
+      <created>1595412301141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595412301141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="57" key="#Project_Structure" timestamp="1595526123449">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="232" y="57" key="#Project_Structure/0.23.1280.777@0.23.1280.777" timestamp="1595526123449" />
+    <state x="461" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1595773913841">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="461" y="103" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1595773913841" />
+    <state width="611" height="140" key="GridCell.Tab.0.bottom" timestamp="1595783594880">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="611" height="140" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1595783594880" />
+    <state width="611" height="140" key="GridCell.Tab.0.center" timestamp="1595783594879">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="611" height="140" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1595783594879" />
+    <state width="611" height="140" key="GridCell.Tab.0.left" timestamp="1595783594878">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="611" height="183" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1595525826124" />
+    <state width="611" height="140" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1595783594878" />
+    <state width="611" height="140" key="GridCell.Tab.0.right" timestamp="1595783594879">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="611" height="140" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1595783594879" />
+    <state x="249" y="41" key="SettingsEditor" timestamp="1595524633932">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="249" y="41" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1595524633932" />
+    <state x="306" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1595595598770">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="306" y="225" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1595595598770" />
+    <state x="523" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1595783308032">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="523" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1595783308032" />
+  </component>
+</project>
