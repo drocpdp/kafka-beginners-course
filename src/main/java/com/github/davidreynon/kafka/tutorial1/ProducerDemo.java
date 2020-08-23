@@ -25,7 +25,7 @@ public class ProducerDemo {
         ProducerRecord<String, String> record =
                 new ProducerRecord<String, String>("first_topic", "hello world");
 
-        //send data
+        //send data - asynchronous
         producer.send(record);
 
         //flush data

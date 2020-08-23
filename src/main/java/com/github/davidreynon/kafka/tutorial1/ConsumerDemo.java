@@ -30,12 +30,15 @@ public class ConsumerDemo {
         properties.setProperty(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getName());
         properties.setProperty(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class.getName());
         properties.setProperty(ConsumerConfig.GROUP_ID_CONFIG, groupId);
-        properties.setProperty(ConsumerConfig.AUTO_OFFSET_RESET_CONFIG, "earliest");
+        properties.setProperty(ConsumerConfig.AUTO_OFFSET_RESET_CONFIG, "earliest"); //earliest, latest or none
+            //earliest: read from very beginning of topic
+            //latest: read from only new messages
+            //none: throw error if no offsets being saved
 
         // create consumer
         KafkaConsumer<String, String> consumer = new KafkaConsumer<String, String>(properties);
 
-        // subscribe consumer to our topics
+        // subscribe consumer to our topic(s)
         consumer.subscribe(Arrays.asList(topic));
 
         // poll for new data
@@ -45,6 +48,8 @@ public class ConsumerDemo {
             for (ConsumerRecord record : records){
                 logger.info("Key: " + record.key() + ", Value: " + record.value());
                 logger.info("Partition: " + record.partition() + ", Offset: " + record.offset());
+                // when run, Consumer read all values from partition 0, 1 and 2, .... etc
+                // --> because we are
 
             }
         }

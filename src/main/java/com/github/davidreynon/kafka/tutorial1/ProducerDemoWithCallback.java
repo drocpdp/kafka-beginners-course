@@ -52,5 +52,8 @@ public class ProducerDemoWithCallback {
         //flush and close producer
         producer.close();
 
+        // Output will not be in order, but will be round-robin
+        // through partitions
+
     }
 }
