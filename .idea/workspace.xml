@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b616ccd5-53f9-4575-b911-8206e20b7c41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/davidreynon/kafka/tutorial1/ConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/davidreynon/kafka/tutorial1/ConsumerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/davidreynon/kafka/tutorial1/ProducerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/davidreynon/kafka/tutorial1/ProducerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/davidreynon/kafka/tutorial1/ProducerDemoKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/davidreynon/kafka/tutorial1/ProducerDemoKeys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/davidreynon/kafka/tutorial1/ProducerDemoWithCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/davidreynon/kafka/tutorial1/ProducerDemoWithCallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/kafka-beginners-course.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
