@@ -23,12 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b616ccd5-53f9-4575-b911-8206e20b7c41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kafka-consumer-elasticsearch/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-consumer-elasticsearch/src/main/java/com/github/drocpdp/kafka/tutorial3/ElasticSearchConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-elasticsearch/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-elasticsearch/src/main/java/com/github/drocpdp/kafka/tutorial3/ElasticSearchConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-elasticsearch/src/main/java/com/github/drocpdp/kafka/tutorial3/ElasticSearchConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-twitter/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +67,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/kafka-producer-twitter/src/main/java" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -83,7 +82,7 @@
       <recent name="$PROJECT_DIR$/kafka-basics/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ElasticSearchConsumer">
+  <component name="RunManager" selected="Application.TwitterProducer (1)">
     <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.github.davidreynon.kafka.tutorial1.ConsumerDemo" />
       <module name="kafka-beginners-course" />
@@ -199,11 +198,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="261" y="61" key="#Project_Structure" timestamp="1601046932981">
+    <state x="261" y="61" key="#Project_Structure" timestamp="1602336751612">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="232" y="57" key="#Project_Structure/0.23.1280.777@0.23.1280.777" timestamp="1595526123449" />
-    <state x="261" y="61" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1601046932981" />
+    <state x="261" y="61" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1602336751612" />
     <state x="188" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600256604151">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -213,27 +212,31 @@
     </state>
     <state x="461" y="103" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1595773913841" />
     <state x="519" y="113" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1598991381216" />
-    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1601047409040">
+    <state x="486" y="227" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601555319330">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="486" y="227" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1601555319330" />
+    <state width="1358" height="160" key="GridCell.Tab.0.bottom" timestamp="1602676288815">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="611" height="140" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1595783594880" />
-    <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601047409040" />
-    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1601047409039">
+    <state width="1358" height="160" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602676288815" />
+    <state width="1358" height="160" key="GridCell.Tab.0.center" timestamp="1602676288814">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="611" height="140" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1595783594879" />
-    <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601047409039" />
-    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1601047409039">
+    <state width="1358" height="160" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1602676288814" />
+    <state width="1358" height="160" key="GridCell.Tab.0.left" timestamp="1602676288814">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="611" height="183" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1595525826124" />
     <state width="611" height="140" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1595783594878" />
-    <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601047409039" />
-    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1601047409040">
+    <state width="1358" height="160" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1602676288814" />
+    <state width="1358" height="160" key="GridCell.Tab.0.right" timestamp="1602676288814">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="611" height="140" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1595783594879" />
-    <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601047409040" />
+    <state width="1358" height="160" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1602676288814" />
     <state width="1358" height="270" key="GridCell.Tab.1.bottom" timestamp="1598095310547">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -254,11 +257,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="0" y="224" key="Maven.ArtifactSearchDialog/0.23.1440.877@0.23.1440.877" timestamp="1601045464562" />
-    <state x="280" y="43" key="SettingsEditor" timestamp="1601047004916">
+    <state x="280" y="43" key="SettingsEditor" timestamp="1602336698444">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="249" y="41" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1595524633932" />
-    <state x="280" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601047004916" />
+    <state x="280" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602336698444" />
     <state x="306" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1595595598770">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
